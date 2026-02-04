@@ -1,8 +1,8 @@
 {
     "folders": [
         {
-            "path": ".",
-            "name": "Repo (Neon)"
+            "name": "neon",
+            "path": "neon"
         }
     ],
     "settings": {}
