@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "name": "Neon Work Projects",
+            "path": "work"
+        }
+    ],
+    "settings": {
+        "git.defaultCloneDirectory": "/Users/U004335/github/neon/neon/work"
+    }
+}

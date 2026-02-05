@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "name": "Personal Projects",
+            "path": "personal"
+        }
+    ],
+    "settings": {
+        "git.defaultCloneDirectory": "/Users/U004335/github/neon/neon/personal"
+    }
+}
